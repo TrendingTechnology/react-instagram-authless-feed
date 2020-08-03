@@ -1,0 +1,9 @@
+.Feed {
+  margin: 1% 1%;
+}
+
+.Feed .Media img {
+  margin: 1% 1%;
+  width: 23%;
+  float: left;
+}
